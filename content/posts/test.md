@@ -2,6 +2,7 @@
 title: "Test Log"
 date: "2025-05-10"
 draft: "true"
+tags: ["test", "hhh"]
 ---
 
 

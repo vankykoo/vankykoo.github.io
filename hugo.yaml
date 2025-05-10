@@ -5,7 +5,7 @@ theme: ["PaperMod"]
 
 params:
   homeInfoParams:
-    Title: Hi there wave
+    Title: Hi there 👋
     Content: 你好
 
   socialIcons: # optional

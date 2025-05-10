@@ -24,6 +24,13 @@ params:
     - name: "<platform 2>"
       url: "<link2>"
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
 outputs:
   home:
     - HTML

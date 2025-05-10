@@ -2,3 +2,14 @@ baseURL: https://vankykoo.github.io/
 languageCode: zh-cn
 title: VankyHub
 theme: ["PaperMod"]
+
+params:
+  homeInfoParams:
+    Title: Hi there wave
+    Content: 你好
+
+  socialIcons: # optional
+    - name: "<platform>"
+      url: "<link>"
+    - name: "<platform 2>"
+      url: "<link2>"

@@ -1,6 +1,6 @@
 ---
-title: "Test Log"
-date: "2025-5-10"
+title: Test Log
+date: 2025-05-10
 draft: "true"
 ---
 
